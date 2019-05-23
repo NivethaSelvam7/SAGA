@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Send Motor aggregator request and validate Motor aggregator response.</description>
+   <name>Send Motor Aggregator Request</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>09cc22a6-c10e-4975-bf31-12bfd2682fa8</testCaseGuid>
+</TestCaseEntity>

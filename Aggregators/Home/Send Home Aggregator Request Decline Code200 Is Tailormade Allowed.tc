@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Send Home Aggregator Request Decline Code200 Is Tailormade Allowed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d8f90f35-8c79-4bea-9665-22c9d75053ed</testCaseGuid>
+</TestCaseEntity>

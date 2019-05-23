@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Send Home Aggregator Request Decline Code68 Refused Insurance</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d182c369-f6db-44cd-b9f1-094e850c045f</testCaseGuid>
+</TestCaseEntity>

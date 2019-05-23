@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Send Home Aggregator Request Decline Code66 OccupancyType</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d83a145d-884a-469a-8e08-42edb86a1b57</testCaseGuid>
+</TestCaseEntity>

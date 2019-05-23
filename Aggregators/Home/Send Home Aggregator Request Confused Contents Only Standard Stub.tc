@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Send Home Aggregator Request Confused Contents Only Standard Stub</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db7ece76-7566-485b-ad26-5360eeb74b06</testCaseGuid>
+</TestCaseEntity>

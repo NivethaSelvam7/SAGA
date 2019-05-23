@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Send Home Aggregator Request</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>88212944-bbb0-48fa-88f1-b9a3c1a84f18</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>351c9d82-5c90-430d-bb14-8232b7420f13</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Send Home Aggregator Request Decline Code30 Property Type</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d345b55f-32d4-47ba-a71d-2e0d47b06e80</testCaseGuid>
+</TestCaseEntity>

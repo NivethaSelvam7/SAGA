@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Send Home Aggregator Request Decline Code25 Not occupied at night</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0928b5d-589b-4501-8145-3c02ca7deecc</testCaseGuid>
+</TestCaseEntity>
