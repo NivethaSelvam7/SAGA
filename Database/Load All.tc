@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get a full set of random test data from the database.</description>
+   <name>Load All</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>92af51cc-8a81-4c83-9a74-8fbf3c1c3430</testCaseGuid>
+</TestCaseEntity>

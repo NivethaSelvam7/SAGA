@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get address test data from the database</description>
+   <name>Load Live Saga Address</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3c36620d-2836-482c-b8df-5631ee9ea807</testCaseGuid>
+</TestCaseEntity>

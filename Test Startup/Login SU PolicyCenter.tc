@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Loads random test data and opens a chrome window</description>
+   <name>Login SU PolicyCenter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c64f9101-aabe-430b-8bde-f75f4dea68ab</testCaseGuid>
+</TestCaseEntity>

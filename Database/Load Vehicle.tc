@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get vehicle test data from the database</description>
+   <name>Load Vehicle</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fff42611-1ded-4fff-b509-b3dcd45cb67d</testCaseGuid>
+</TestCaseEntity>

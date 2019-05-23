@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get address test data from the database</description>
+   <name>Load Channel Island Address</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a7a87de1-2641-4825-85c6-fea2e8a7b907</testCaseGuid>
+</TestCaseEntity>

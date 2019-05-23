@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Loads random test data and opens a chrome window</description>
+   <name>Login SU BillingCenter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>16eebf7b-8c6a-4db2-ab3f-cb0a181a4528</testCaseGuid>
+</TestCaseEntity>

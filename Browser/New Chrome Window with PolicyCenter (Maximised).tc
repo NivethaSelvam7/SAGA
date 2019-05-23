@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Open a new Chrome window and maximise it.</description>
+   <name>New Chrome Window with PolicyCenter (Maximised)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0a63066c-e066-4c07-b39c-6c4f0ace6499</testCaseGuid>
+</TestCaseEntity>

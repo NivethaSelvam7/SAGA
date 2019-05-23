@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Loads random test data and opens a chrome window</description>
+   <name>Load Random Data Portals</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>983b72b5-3897-4f92-bba8-f23abbdd0596</testCaseGuid>
+</TestCaseEntity>

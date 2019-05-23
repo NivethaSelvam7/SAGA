@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Scripts sets up Billing/PC/PC Agg configs for NFT run</description>
+   <name>NFT Load Config set up</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>829d4616-c2ad-4d20-b091-d8790ef21596</testCaseGuid>
+</TestCaseEntity>

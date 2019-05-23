@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get card test data from the database</description>
+   <name>Load Card - Mastercard or Visa</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>32d889e4-1935-4616-bd51-021cf7a70b24</testCaseGuid>
+</TestCaseEntity>

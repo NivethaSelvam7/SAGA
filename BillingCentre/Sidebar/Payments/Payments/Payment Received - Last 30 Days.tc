@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Payment Received - Last 30 Days</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a8e13e50-2119-4c2c-bcbc-c41ef4139946</testCaseGuid>
+</TestCaseEntity>

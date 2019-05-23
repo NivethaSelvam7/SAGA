@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get address test data from the database</description>
+   <name>Load Address</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>74cd2f06-f6cd-4675-9c6c-fb895355ca45</testCaseGuid>
+</TestCaseEntity>

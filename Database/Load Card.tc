@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get card test data from the database</description>
+   <name>Load Card</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e33a6ad5-2e71-4957-84ef-c79d1f7e76df</testCaseGuid>
+</TestCaseEntity>

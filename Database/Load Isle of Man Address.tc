@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get address test data from the database</description>
+   <name>Load Isle of Man Address</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3427b59c-2751-46b3-950c-260c856aca4b</testCaseGuid>
+</TestCaseEntity>
